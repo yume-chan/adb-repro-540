@@ -8,6 +8,8 @@
     "lint": "vue-cli-service lint"
   },
   "dependencies": {
+    "@yume-chan/adb": "^0.0.19",
+    "@yume-chan/adb-backend-webusb": "^0.0.19",
     "core-js": "^3.8.3",
     "vue": "^2.6.14"
   },
