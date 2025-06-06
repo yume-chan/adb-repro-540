@@ -14,5 +14,8 @@
   "dependencies": {
     "@yume-chan/adb": "^2.0.1",
     "@yume-chan/adb-server-node-tcp": "^2.0.1"
+  },
+  "devDependencies": {
+    "@types/node": "^22.15.30"
   }
 }

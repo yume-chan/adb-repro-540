@@ -13,5 +13,5 @@ async function createAdb(transportId) {
     return new Adb(transport);
 }
 
-console.log(await createAdb(3n));
-console.log(await createAdb(7n));
+console.log(await createAdb(1n));
+console.log(await createAdb(2n));
